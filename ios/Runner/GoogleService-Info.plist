@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>63095322307-k10jmdl7ro9frfjno4f3a304ni4o8m2r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.63095322307-k10jmdl7ro9frfjno4f3a304ni4o8m2r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>63095322307-4qd948nn52uu6c42oh50qo3dq4ap27tm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1GX5x1UH6lOXB_agDNVy6m8tNRouIKcs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>63095322307</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.virtualgallery</string>
+	<key>PROJECT_ID</key>
+	<string>videoapp-798fd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>videoapp-798fd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:63095322307:ios:e5f3346d8ed48260d85476</string>
+	<key>DATABASE_URL</key>
+	<string>https://videoapp-798fd-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

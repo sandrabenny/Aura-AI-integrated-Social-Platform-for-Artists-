@@ -1,0 +1,2 @@
+D:/popop/android/app/.cxx/Debug/b12d3g62/x86_64/CMakeFiles/edit_cache.dir
+D:/popop/android/app/.cxx/Debug/b12d3g62/x86_64/CMakeFiles/rebuild_cache.dir

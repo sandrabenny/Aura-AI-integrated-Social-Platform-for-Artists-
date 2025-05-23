@@ -1,0 +1,2 @@
+D:/popop/android/app/.cxx/RelWithDebInfo/312e6w4p/x86/CMakeFiles/edit_cache.dir
+D:/popop/android/app/.cxx/RelWithDebInfo/312e6w4p/x86/CMakeFiles/rebuild_cache.dir

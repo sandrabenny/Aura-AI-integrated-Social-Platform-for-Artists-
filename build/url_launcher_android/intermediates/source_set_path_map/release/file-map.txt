@@ -1,0 +1,28 @@
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-viewmodel-2.7.0-0 C:\Users\kavun\.gradle\caches\transforms-3\0d724274b46780f68492593c5138c21e\transformed\lifecycle-viewmodel-2.7.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-fragment-1.7.1-1 C:\Users\kavun\.gradle\caches\transforms-3\1125d6a8eabbe5b42dadf26115c520ee\transformed\fragment-1.7.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-core-ktx-1.13.1-2 C:\Users\kavun\.gradle\caches\transforms-3\1605e6ec768bd6e9706a2268045ef7db\transformed\jetified-core-ktx-1.13.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-livedata-2.7.0-3 C:\Users\kavun\.gradle\caches\transforms-3\1987ded6aec3f3b97a58abac0e565cac\transformed\lifecycle-livedata-2.7.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-1.2.0-4 C:\Users\kavun\.gradle\caches\transforms-3\1a8b478347169530bac076d1af4efc75\transformed\jetified-window-1.2.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-annotation-experimental-1.4.0-5 C:\Users\kavun\.gradle\caches\transforms-3\20b2dca2f480923336e8ef7b085e6e58\transformed\jetified-annotation-experimental-1.4.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-lifecycle-viewmodel-savedstate-2.7.0-6 C:\Users\kavun\.gradle\caches\transforms-3\6975cc431ec8498ffdf2796b67759ca0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-tracing-1.2.0-7 C:\Users\kavun\.gradle\caches\transforms-3\7ec59fd88e2ebab119ff7cd6fa5e9583\transformed\jetified-tracing-1.2.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-browser-1.8.0-8 C:\Users\kavun\.gradle\caches\transforms-3\86ee45f5c791d8d00fa99ae2b84aaec9\transformed\browser-1.8.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-startup-runtime-1.1.1-9 C:\Users\kavun\.gradle\caches\transforms-3\8bc68417b2d3520d1ae45fa0d3b14d45\transformed\jetified-startup-runtime-1.1.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-lifecycle-process-2.7.0-10 C:\Users\kavun\.gradle\caches\transforms-3\98a13afb1037d30c765555e4ae128327\transformed\jetified-lifecycle-process-2.7.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-core-1.13.1-11 C:\Users\kavun\.gradle\caches\transforms-3\a3de342a3f81e3197d28e19f8e01251f\transformed\core-1.13.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-livedata-core-2.7.0-12 C:\Users\kavun\.gradle\caches\transforms-3\aeb460594c9750ecf4d241b7622c57eb\transformed\lifecycle-livedata-core-2.7.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-core-runtime-2.2.0-13 C:\Users\kavun\.gradle\caches\transforms-3\b4e148e8fdd16144492c40b53ee11bd9\transformed\core-runtime-2.2.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-profileinstaller-1.3.1-14 C:\Users\kavun\.gradle\caches\transforms-3\c0e8d1716ea866377b8ab916b7682a14\transformed\jetified-profileinstaller-1.3.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-savedstate-1.2.1-15 C:\Users\kavun\.gradle\caches\transforms-3\c5506762b7ddec4c3f17606aa1c6ab04\transformed\jetified-savedstate-1.2.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-core-1.0.0-16 C:\Users\kavun\.gradle\caches\transforms-3\cd42dcb6a1fe8bf7708f7a71548d8de6\transformed\jetified-core-1.0.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-java-1.2.0-17 C:\Users\kavun\.gradle\caches\transforms-3\d29f4b4a0b5f264567f654ef8608c1f5\transformed\jetified-window-java-1.2.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-lifecycle-livedata-core-ktx-2.7.0-18 C:\Users\kavun\.gradle\caches\transforms-3\d47f5f970f4464ecce1ae9381183df3b\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-activity-1.8.1-19 C:\Users\kavun\.gradle\caches\transforms-3\d7495baebaa47fcf14abfcffcbe2935e\transformed\jetified-activity-1.8.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-runtime-2.7.0-20 C:\Users\kavun\.gradle\caches\transforms-3\d8089a24dc295780ff7ab5b60620a9e5\transformed\lifecycle-runtime-2.7.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-main-21 C:\Users\kavun\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.10\android\src\main\res
+io.flutter.plugins.urllauncher.url_launcher_android-release-22 C:\Users\kavun\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.10\android\src\release\res
+io.flutter.plugins.urllauncher.url_launcher_android-pngs-23 D:\popop - Copy\build\url_launcher_android\generated\res\pngs\release
+io.flutter.plugins.urllauncher.url_launcher_android-resValues-24 D:\popop - Copy\build\url_launcher_android\generated\res\resValues\release
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-25 D:\popop - Copy\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-26 D:\popop - Copy\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.urllauncher.url_launcher_android-merged_res-27 D:\popop - Copy\build\url_launcher_android\intermediates\merged_res\release
